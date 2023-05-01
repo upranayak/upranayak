@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranayak Uniyal</h1>
+<h1 align="center">Hey 👋, I'm Pranayak Uniyal</h1>
 <h3 align="center">Machine Learning Engineer | Data Science at IIT Madras | Ex- Machine Learning Intern at IISc Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upranayak&label=Profile%20views&color=0e75b6&style=flat" alt="upranayak" /> </p>
