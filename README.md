@@ -44,5 +44,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://rm.up.railway.app/](https://i.chzbgr.com/full/9709220352/h7B942618/person-life-is-too-short-debug-c-code-just-put-before-error-line-and-move-on)" width="512px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvc0U3hTcDbYl0lGMFt_8N2sajVty_GCJ4Mg&usqp=CAU" width="512px"/>
 </p>
