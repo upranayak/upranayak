@@ -44,5 +44,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprogrammerhumor.io%2Fprogramming-memes%2Fcmd-ping-8-8-8-8-t-feel-like-a-pro%2F&psig=AOvVaw3UuaSZHwjADJUAFBZZQtrM&ust=1683808368230000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCnlI_h6v4CFQAAAAAdAAAAABAE" width="512px"/>
+<img src="https://codinginfinite.com/wp-content/uploads/2019/05/documentation-where-were-going-we-dont-need-documentation.jpg" width="512px"/>
 </p>
