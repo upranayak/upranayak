@@ -44,5 +44,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvc0U3hTcDbYl0lGMFt_8N2sajVty_GCJ4Mg&usqp=CAU](https://remote-tools-images.s3.amazonaws.com/programmer-memes/3.jpg)" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprogrammerhumor.io%2Fprogramming-memes%2Fcmd-ping-8-8-8-8-t-feel-like-a-pro%2F&psig=AOvVaw3UuaSZHwjADJUAFBZZQtrM&ust=1683808368230000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCnlI_h6v4CFQAAAAAdAAAAABAE" width="512px"/>
 </p>
