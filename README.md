@@ -34,7 +34,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=upranayak&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 </br> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=upranayak)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=upranayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
