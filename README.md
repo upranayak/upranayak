@@ -45,3 +45,4 @@
 ### 😂 Random Dev Meme
 <img src="https://codinginfinite.com/wp-content/uploads/2019/05/documentation-where-were-going-we-dont-need-documentation.jpg" width="512px"/>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=upranayak)](https://github.com/ryo-ma/github-profile-trophy)
