@@ -35,7 +35,7 @@
 
 <br/> 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=upranayak&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/upranayak/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=upranayak&limit=5&theme=dark&combine_all_yearly_contributions=true)
