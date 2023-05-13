@@ -21,9 +21,9 @@
 <p align="left">
 <a href="https://twitter.com/upranayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="upranayak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/upranayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/upranayak/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/pranayakuniyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pranayakuniyal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/upranayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/upranayak/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/upranayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/upranayak" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/pranayakuniyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pranayakuniyal" height="30" width="40" /></a>
+<a href="https://leetcode.com/upranayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/upranayak/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/upranayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/upranayak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
