@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=45&duration=2000&pause=200&center=true&vCenter=true&multiline=true&width=1500&height=200&lines=Hey%2C+welcome+to+my+profile!;++Feel+%E2%9D%A4%EF%B8%8F+free+to+reach+out+if+you+have+any+questions+;or+just+want+to+say+hi.+%E2%9C%8C%EF%B8%8F%F0%9F%98%89)](https://git.io/typing-svg)
 
+
 <h1 align="center">Hola amigos 👋, I'm Pranayak Uniyal</h1>
 <h3 align="center">Machine Learning Engineer | Data Science at IIT Madras | Ex- Machine Learning Intern at IISc Bangalore</h3>
 
