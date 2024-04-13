@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/upranayak](https://github.com/upranayak)
 
-- 💬 Ask me about **Machine Learning, Data Analysis**
+- 💬 Ask me about **Machine Learning, AI, Statistics**
 
 - 📫 How to reach me **upranayak@gmail.com**
 
