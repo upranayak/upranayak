@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/upranayak" target="blank"><img src="https://img.shields.io/twitter/follow/upranayak?logo=twitter&style=for-the-badge" alt="upranayak" /></a> </p>
 
 
-- 🌱 I’m currently learning **Natural Language Processing and LLMs**
+- 🌱 I’m currently learning **Natural Language Processing & LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/upranayak](https://github.com/upranayak)
 
