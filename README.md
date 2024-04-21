@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hola amigos 👋, I'm Pranayak Uniyal</h1>
-<h3 align="center">Machine Learning Engineer | Data Science at IIT Madras | Ex- Machine Learning Research Intern at IISc Bangalore.</h3>
+<h3 align="center">Machine Learning Engineer | Data Science at IIT Madras | Ex- Machine Learning Research Intern at IISc Bangalore</h3>
 
 <img align="right" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" height="320" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upranayak&label=Profile%20views&color=0e75b6&style=flat" alt="upranayak" /> </p>
